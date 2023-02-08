@@ -1,7 +1,6 @@
 # analise_preditiva
 Empresa:
   WEG S.A.
-Ferramentas
   API: 
     yfinance
   Analise de dados:
